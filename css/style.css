@@ -1,7 +1,4 @@
-/* * {
-  margin: 0;
-  padding: 0;
-} */
+
 @media screen and (max-width: 900px) {
   .green-back-img {
     background: url(../images/bg-pattern-top.svg) no-repeat; 
@@ -21,7 +18,7 @@ body {
 
 .green-back-img {
   background: url(../images/bg-pattern-top.svg) no-repeat , url(../images/bg-pattern-bottom.svg) no-repeat; 
-  background-position:bottom 55px right 550px, top 290px left 390px; 
+  background-position:bottom 55px right 550px, top 250px left 380px; 
   /* background-size: 88%; */
 
 }
